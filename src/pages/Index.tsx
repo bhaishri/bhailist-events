@@ -22,9 +22,9 @@ const Index = () => {
       </header>
 
       {/* Main Content */}
-      {/*<main className="container mx-auto px-4 py-12">
+      <main className="container mx-auto px-4 py-12">
         <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-12">
+          {/*<div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">
               Spiritual Events Collection
             </h2>
@@ -32,11 +32,11 @@ const Index = () => {
               Browse through our extensive archive of spiritual teachings, discourses, and Katha events. 
               Use the search and filter options to find specific events by name or year.
             </p>
-          </div>
+          </div>*/}
           
           <EventsTable />
         </div>
-      </main>*/}
+      </main>
 
       {/* Footer */}
       <footer className="bg-secondary/30 border-t border-border/40 mt-20">
