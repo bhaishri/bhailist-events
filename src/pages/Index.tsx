@@ -8,7 +8,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-3">
-              BhaiShri
+              Bhai Shri
             </h1>
             <p className="text-xl md:text-2xl text-primary-foreground/90 mb-2">
               Spiritual Teaching Events & Katha Recordings
@@ -22,7 +22,7 @@ const Index = () => {
       </header>
 
       {/* Main Content */}
-      <main className="container mx-auto px-4 py-12">
+      {/*<main className="container mx-auto px-4 py-12">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">
@@ -36,7 +36,7 @@ const Index = () => {
           
           <EventsTable />
         </div>
-      </main>
+      </main>*/}
 
       {/* Footer */}
       <footer className="bg-secondary/30 border-t border-border/40 mt-20">
